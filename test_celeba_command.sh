@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --mode='test' --dataset='CelebA' --experiment_path='./experiment_celeba_ACWGAN' --pretrained_model='20_2000' --batch_size=28

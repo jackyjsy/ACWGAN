@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --mode='test' --dataset='Fashion' --experiment_path='./experiment_fashion_ACWGAN' --port=8098 --web_dir='web_fashion_ACWGAN' --pretrained_model='17_2000'
